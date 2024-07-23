@@ -9,6 +9,6 @@ All the stuff that is used in this game except for the sprites was downloaded fr
 
 Tudo que usei no jogo exceto pelos sprites foi baixado de várias fontes da internet (Youtube, DaFont, etc), então se você criou algo que eu usei sem permissão, sinta-se livre de me mandar um email ou mensagem no discord!
 
-I would like to extend my heartfelt thanks to the SFML Discord community for their incredible support. They have helped me with so many things I couldn’t manage on my own and have always been so friendly and welcoming. Thank you for being an essential part of my journey!
+I would like to extend my heartfelt thanks to the SFML Discord community for their incredible support. They have helped me with so many things I couldn’t manage on my own and have always been so friendly and welcoming. Thank you for being an essential part of my journey! And also special thanks for Suraj Sharma, for his amazing classes about SFML and gamedev!!!
 
-Eu gostaria de agradecer de coração à comunidade do SFML no Discord pelo incrível suporte. Eles me ajudaram com muitas coisas que eu não consegui fazer por conta própria e foram amigáveis e receptivos o tempo todo. Obrigado por serem parte essencial da minha jornada!
+Eu gostaria de agradecer de coração à comunidade do SFML no Discord pelo incrível suporte. Eles me ajudaram com muitas coisas que eu não consegui fazer por conta própria e foram amigáveis e receptivos o tempo todo. Obrigado por serem parte essencial da minha jornada! E também agradeço especialmente ao Suraj Sharma, pelas suas incríveis aulas sobre SFML e desenvolvimento de jogos!!!
