@@ -1,0 +1,1 @@
+g++ -o maintests maintests.cpp ../src/lootbox.cpp ../src/bullet.cpp ../src/enemy.cpp ../src/player.cpp -Iinclude -I/path/to/catch2/single_include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio

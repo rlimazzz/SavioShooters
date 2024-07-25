@@ -6,10 +6,10 @@
 #include <math.h>
 #include <unistd.h>
 #include <cstdlib>
-#include "./headers/Player.h"
-#include "./headers/Enemy.h"
-#include "./headers/Bullet.h"
-#include "./headers/Lootbox.h"
+#include "./include/Player.h"
+#include "./include/Enemy.h"
+#include "./include/Bullet.h"
+#include "./include/Lootbox.h"
 
 int main()
 {
@@ -36,7 +36,8 @@ int main()
 
     sf::Texture bulletTexture;
     if(!bulletTexture.loadFromFile("./sprites/bullet.png"))
-    {
+    {    REQUIRE(test.soundDying == &bufferTest);
+
         std::cout << "Failed to load bullet texture\n";
     }
 
