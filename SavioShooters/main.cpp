@@ -36,8 +36,7 @@ int main()
 
     sf::Texture bulletTexture;
     if(!bulletTexture.loadFromFile("./sprites/bullet.png"))
-    {    REQUIRE(test.soundDying == &bufferTest);
-
+    {   
         std::cout << "Failed to load bullet texture\n";
     }
 
